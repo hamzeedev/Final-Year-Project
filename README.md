@@ -1,5 +1,5 @@
 # Final Year Project
- => My fyp named ' Wheels on Rent ' \
- => It is a general purpose vehicles renting app , including all type of vehicles(car,buses, trucks and farm vehicles)\
- => It as two apps , one is for users and other is for agency\
- => Statemanagement i have used is GetX 
+ <strong>=></strong> My fyp named <strong>' Wheels on Rent '</strong>. \
+ <strong>=></strong> It is a general purpose vehicles renting app , including all type of <strong>vehicles(car,buses, trucks and farm vehicles)</strong>\
+ <strong>=></strong> It as two apps , one is for <strong>users</strong> and other is for <strong>agency</strong> \
+ <strong>=></strong> Statemanagement i have used is <strong>GetX</strong>
